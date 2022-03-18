@@ -1,0 +1,31 @@
+/*CSS styling according to provided design*/
+body {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    background-size: cover;
+    font-weight: bold;
+    font-size: 40px;
+    color: white;
+    background-image: url(./black-jack-table-background-green-260nw-1937358541.webp);
+}
+
+h1 {
+    color: goldenrod
+}
+#message-el {
+    font-style: italic;
+}
+button {
+    border: none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background: goldenrod;
+    font-weight: bold;
+    width: 200px;
+    height: 50px;
+    border-radius: 7px;
+    color: green;
+    font-size: 20px ;
+    margin-bottom: 2px;
+    margin-top: 4px;
+}
